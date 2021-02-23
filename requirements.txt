@@ -1,0 +1,9 @@
+fastapi
+setuptools
+wheel
+spacy
+uvicorn[standard]
+spacy_langdetect
+spacy-lookups-data
+torch
+spacy-transformers

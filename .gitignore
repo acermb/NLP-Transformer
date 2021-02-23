@@ -1,0 +1,8 @@
+*.pyc
+data/**
+logs/**
+lib/loggerfile.log
+lib/models_info.json
+models_info.json
+logs/loggerfile.log
+logs/loggerfile.log

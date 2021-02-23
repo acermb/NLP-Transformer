@@ -1,0 +1,803 @@
+{
+  "identifier": "myDataset",
+  "versions": [
+    {
+      "trainingSet": [
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test5",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        },
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test4",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        },
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test3",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        },
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test2",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        },
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test1",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        },
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test0",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        }
+      ],
+      "validationSet": [
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test7",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        },
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test6",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        }
+      ],
+      "testSet": [
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test8",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        },
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test9",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        }
+      ],
+      "hash": "14b01eb88ed"
+    },
+    {
+      "trainingSet": [
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test5",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        },
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test4",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        },
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test3",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        },
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test2",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        },
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test1",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        },
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test0",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        }
+      ],
+      "validationSet": [
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test7",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        },
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test6",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        }
+      ],
+      "testSet": [
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test8",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        },
+        {
+          "sample": "George Washington lebt in Washington",
+          "intent": "test9",
+          "entities": [
+            {
+              "token": {
+                "token": "Washington",
+                "start": 7,
+                "end": 17,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "George",
+                "start": 0,
+                "end": 6,
+                "type": "WORD"
+              },
+              "categories": [
+                "PERSON"
+              ]
+            },
+            {
+              "token": {
+                "token": "Washington",
+                "start": 26,
+                "end": 36,
+                "type": "WORD"
+              },
+              "categories": [
+                "LOCATION"
+              ]
+            }
+          ]
+        }
+      ],
+      "hash": "9678ff725ebce0"
+    }
+  ]
+}
