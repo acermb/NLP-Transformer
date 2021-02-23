@@ -1,6 +1,5 @@
 import logging, json, os
 
-from fastapi import FastAPI, HTTPException
 import importlib
 from monitor import Monitor
 from spacy_component import SpacyComponent
